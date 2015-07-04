@@ -1,0 +1,27 @@
+{
+  "name": "globetrotter",
+  "version": "1.0.0",
+  "description": "Uses Wikidata to translate the name of cities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisnewtn/globetrotter.git"
+  },
+  "keywords": [
+    "i18n",
+    "i10n",
+    "localization",
+    "translation",
+    "city",
+    "cities"
+  ],
+  "author": "Chris Newton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisnewtn/globetrotter/issues"
+  },
+  "homepage": "https://github.com/chrisnewtn/globetrotter"
+}
